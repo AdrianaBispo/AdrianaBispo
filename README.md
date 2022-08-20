@@ -1,13 +1,18 @@
 <h1 align="center">Olá 👋, Eu sou Adriana Bispo</h1>
-
+<p></p>
 <!-- <h3 align="center">Desenvolvedora mobile</h3></br>-->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianabispo&label=Profile%20views&color=0e75b6&style=flat" alt="adrianabispo" /> </p>-->
 
-- 🌱 Atualmente estou estudando **MySql** pelo SENAC e aprimorando meus conhecimentos em **Flutter** na Proz Educação. 
-
- <h3>   🌎  Onde me encontrar: </h3> 
+<h3>🌱 Coisas em que estou trabalhando atualmente:</h3>
+<ul>
+<li>Estudando banco de dados pelo SENAC;</li>
+<li>Aprimorando meus conhecimentos em **Flutter** na Proz Educação;</li>
+<li>Estudando banco de dados no bootcamp da DIO.</li>
+</ul>
+<!-- 💻 Projetos -->
+ <h3>🌎  Onde me encontrar: </h3> 
  <p align="left">
   <a href="mailto:adriana.bispo283@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:adriana.bispo283@gmail.com" /></a></p>
