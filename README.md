@@ -7,9 +7,9 @@
 
 <h3>🌱 Coisas em que estou trabalhando atualmente:</h3>
 <ul>
-<li>Estudando banco de dados pelo SENAC;</li>
+<!--<li>Estudando banco de dados pelo SENAC;</li>-->
 <li>Aprimorando meus conhecimentos em **Flutter** na Proz Educação;</li>
-<li>Estudando banco de dados no bootcamp da DIO.</li>
+<!--<li>Estudando banco de dados no bootcamp da DIO.</li>-->
 </ul>
 <!-- 💻 Projetos -->
  <h3>🌎  Onde me encontrar: </h3> 
