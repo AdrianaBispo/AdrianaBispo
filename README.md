@@ -50,9 +50,9 @@
  
  
  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianabispo&theme=tokyonight&show_icons=true&locale=en" alt="adrianabispo"  width="48%"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianabispo&theme=tokyonight&show_icons=true&locale=en" alt="adrianabispo"/>&nbsp;&nbsp;&nbsp;&nbsp;
  
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianabispo&theme=tokyonight" alt="adrianabispo"  width="48%"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianabispo&theme=tokyonight" alt="adrianabispo" />&nbsp;&nbsp;&nbsp;&nbsp;
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianabispo&layout=compact&langs_count=7&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
