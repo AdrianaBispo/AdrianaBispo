@@ -8,8 +8,10 @@
 </br>
 
 
-<p>Comecei meus estudos de programação no ano de 2020 com a linguagem Python e foi amor na primeira linha. No ano seguinte comecei a estudar Flutter e Dart.</p>
-<p>Atualmente estou estudando Flutter na Proz Educação, nele estou me aprofundando e aprendendo assuntos como: Git/GitHub, Chamada de API, Responsividade, Model View Controller (MVC), Gerenciamento de Estado,  MobX, FireBase.</p>
+<p>Sou desenvolvedora mobile flutter, nos meus projetos utilizo ferramentas e conceitos de: gerenciamento de estado; Git/GitHub; Model View Controller (MVC); MobX; Bloc; Firebase; injeção de dependência; testes unitários, entre outros.</p>
+
+<p>Na empresa de tecnologia que estou atualmente realizo as seguintes responsabilidades: Participação ativa no ciclo de vida completo do desenvolvimento de software, incluindo análise de requisito, design, codificação, testes e manutenção; Colaboração com a equipe para entender os requisitos e tradução em especificações técnicas claras; execução da manutenção dos sistemas, fazendo eventuais correções necessárias, visando atender às necessidades dos usuários; correção de bugs apontados pelos clientes ou pela equipe de qualidade; apoio da equipe de qualidade na realização de testes de qualidade quando necessário.
+</p>
 
 </br>
 <h2 align="center">🔭 Linguagens e Ferramentas</h2></br>
