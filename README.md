@@ -7,11 +7,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode"></p>
 </br>
 
+<p>Desenvolvedora Mobile Flutter com expertise em gerenciamento de estado, Git/GitHub, MVC, MobX, Bloc, Firebase e injeção de dependência. Responsável por ciclo completo de desenvolvimento: análise de requisitos, criação de protótipos, codificação, testes e manutenção.</p>
 
-<p>Sou desenvolvedora mobile flutter, nos meus projetos utilizo ferramentas e conceitos de: gerenciamento de estado; Git/GitHub; Model View Controller (MVC); MobX; Bloc; Firebase; injeção de dependência; testes unitários, entre outros.</p>
-
-<p>Na empresa de tecnologia que estou atualmente realizo as seguintes responsabilidades: Participação ativa no ciclo de vida completo do desenvolvimento de software, incluindo análise de requisito, design, codificação, testes e manutenção; Colaboração com a equipe para entender os requisitos e tradução em especificações técnicas claras; execução da manutenção dos sistemas, fazendo eventuais correções necessárias, visando atender às necessidades dos usuários; correção de bugs apontados pelos clientes ou pela equipe de qualidade; apoio da equipe de qualidade na realização de testes de qualidade quando necessário.
-</p>
+<p>Atualmente estou trabalhando na empresa Sudoeste Informática e participo como voluntária do projeto It is Safe.</p>
 
 </br>
 <h2 align="center">🔭 Linguagens e Ferramentas</h2></br>
